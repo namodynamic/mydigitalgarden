@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/alx-be/advanced-features/security-practices-in-django/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/alx-be/advanced-features/security-practices-in-django/"}
 ---
 
 
